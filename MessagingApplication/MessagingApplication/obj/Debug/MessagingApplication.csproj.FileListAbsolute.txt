@@ -1,0 +1,10 @@
+C:\Users\jagff\source\repos\MessagingApplication\MessagingApplication\bin\Debug\MessagingApplication.exe.config
+C:\Users\jagff\source\repos\MessagingApplication\MessagingApplication\bin\Debug\MessagingApplication.exe
+C:\Users\jagff\source\repos\MessagingApplication\MessagingApplication\bin\Debug\MessagingApplication.pdb
+C:\Users\jagff\source\repos\MessagingApplication\MessagingApplication\obj\Debug\MessagingApplication.csprojAssemblyReference.cache
+C:\Users\jagff\source\repos\MessagingApplication\MessagingApplication\obj\Debug\MessagingApplication.csproj.CoreCompileInputs.cache
+C:\Users\jagff\source\repos\MessagingApplication\MessagingApplication\obj\Debug\MessagingApplication.exe
+C:\Users\jagff\source\repos\MessagingApplication\MessagingApplication\obj\Debug\MessagingApplication.pdb
+C:\Users\jagff\source\repos\MessagingApplication\MessagingApplication\obj\Debug\MessagingApplication.csproj.CopyComplete
+C:\Users\jagff\source\repos\MessagingApplication\MessagingApplication\bin\Debug\SharedClasses.dll
+C:\Users\jagff\source\repos\MessagingApplication\MessagingApplication\bin\Debug\SharedClasses.pdb

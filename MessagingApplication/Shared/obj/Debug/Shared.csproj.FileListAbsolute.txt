@@ -1,0 +1,7 @@
+C:\Users\jagff\source\repos\MessagingApplication\Shared\obj\Debug\Shared.csprojAssemblyReference.cache
+C:\Users\jagff\source\repos\MessagingApplication\Shared\obj\Debug\Shared.csproj.CoreCompileInputs.cache
+C:\Users\jagff\source\repos\MessagingApplication\Shared\bin\Debug\Shared.dll.config
+C:\Users\jagff\source\repos\MessagingApplication\Shared\bin\Debug\Shared.dll
+C:\Users\jagff\source\repos\MessagingApplication\Shared\bin\Debug\Shared.pdb
+C:\Users\jagff\source\repos\MessagingApplication\Shared\obj\Debug\Shared.dll
+C:\Users\jagff\source\repos\MessagingApplication\Shared\obj\Debug\Shared.pdb

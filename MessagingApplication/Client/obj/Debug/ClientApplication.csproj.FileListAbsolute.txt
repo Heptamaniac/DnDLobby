@@ -1,0 +1,17 @@
+C:\Users\jagff\source\repos\MessagingApplication\Client\obj\Debug\ClientApplication.csprojAssemblyReference.cache
+C:\Users\jagff\source\repos\MessagingApplication\Client\obj\Debug\MainWindow.g.cs
+C:\Users\jagff\source\repos\MessagingApplication\Client\obj\Debug\App.g.cs
+C:\Users\jagff\source\repos\MessagingApplication\Client\obj\Debug\Client_MarkupCompile.cache
+C:\Users\jagff\source\repos\MessagingApplication\Client\bin\Debug\Client.exe.config
+C:\Users\jagff\source\repos\MessagingApplication\Client\bin\Debug\Client.exe
+C:\Users\jagff\source\repos\MessagingApplication\Client\bin\Debug\Client.pdb
+C:\Users\jagff\source\repos\MessagingApplication\Client\bin\Debug\SharedClasses.dll
+C:\Users\jagff\source\repos\MessagingApplication\Client\bin\Debug\SharedClasses.pdb
+C:\Users\jagff\source\repos\MessagingApplication\Client\obj\Debug\MainWindow.baml
+C:\Users\jagff\source\repos\MessagingApplication\Client\obj\Debug\Client.g.resources
+C:\Users\jagff\source\repos\MessagingApplication\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\jagff\source\repos\MessagingApplication\Client\obj\Debug\ClientApplication.csproj.GenerateResource.cache
+C:\Users\jagff\source\repos\MessagingApplication\Client\obj\Debug\ClientApplication.csproj.CoreCompileInputs.cache
+C:\Users\jagff\source\repos\MessagingApplication\Client\obj\Debug\ClientApplication.csproj.CopyComplete
+C:\Users\jagff\source\repos\MessagingApplication\Client\obj\Debug\Client.exe
+C:\Users\jagff\source\repos\MessagingApplication\Client\obj\Debug\Client.pdb

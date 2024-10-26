@@ -1,0 +1,9 @@
+C:\Users\jagff\source\repos\MessagingApplication\SharedClasses\bin\Debug\netstandard2.0\SharedClasses.deps.json
+C:\Users\jagff\source\repos\MessagingApplication\SharedClasses\bin\Debug\netstandard2.0\SharedClasses.dll
+C:\Users\jagff\source\repos\MessagingApplication\SharedClasses\bin\Debug\netstandard2.0\SharedClasses.pdb
+C:\Users\jagff\source\repos\MessagingApplication\SharedClasses\obj\Debug\netstandard2.0\SharedClasses.csprojAssemblyReference.cache
+C:\Users\jagff\source\repos\MessagingApplication\SharedClasses\obj\Debug\netstandard2.0\SharedClasses.csproj.CoreCompileInputs.cache
+C:\Users\jagff\source\repos\MessagingApplication\SharedClasses\obj\Debug\netstandard2.0\SharedClasses.AssemblyInfoInputs.cache
+C:\Users\jagff\source\repos\MessagingApplication\SharedClasses\obj\Debug\netstandard2.0\SharedClasses.AssemblyInfo.cs
+C:\Users\jagff\source\repos\MessagingApplication\SharedClasses\obj\Debug\netstandard2.0\SharedClasses.dll
+C:\Users\jagff\source\repos\MessagingApplication\SharedClasses\obj\Debug\netstandard2.0\SharedClasses.pdb
